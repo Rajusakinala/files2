@@ -1,0 +1,34 @@
+MongoDB
+data = set of charectors 
+database = the place where we store the data
+DBMS = one Database + one serverside language.
+
+example
+mongoDB, sql, cassandra, Hbase, 
+
+we have different types DBs
+1. Relational databases (SQL)
+2. Non Realtional databases (MongoDB)
+3.Object oriented DBs
+4. distributed databases
+5. data warehouses
+
+MongoDB
+it is a document oriented database
+it stores the data in json format
+as it works on collections and Documents, the performance is high.
+as it providing unique Default key to every document, the accessability is easy.
+it is for big data management, faster accessing.
+
+Document
+document is a set of key-value pairs.
+this document has Dynamic schema.
+
+Dynamic schema means: 
+	in one Document, we can have different types of data.
+	
+
+Collections
+Collection is the group of documents
+it is same as tables in RDBMS
+
